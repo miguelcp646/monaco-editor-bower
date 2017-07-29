@@ -1,0 +1,17 @@
+{
+  "name": "monaco-editor-bower",
+  "homepage": "https://github.com/miguelcp646/monaco-editor-bower",
+  "authors": [
+    "Miguel Castilla <miguelcp646@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
